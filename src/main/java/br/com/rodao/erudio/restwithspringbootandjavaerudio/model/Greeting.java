@@ -1,4 +1,4 @@
-package br.com.rodao.erudio.restwithspringbootandjavaerudio;
+package br.com.rodao.erudio.restwithspringbootandjavaerudio.model;
 
 import lombok.Data;
 
